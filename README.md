@@ -1,10 +1,8 @@
-# 🤖 ¿Cómo sabe la red neuronal que debe convertir de Celsius a Fahrenheit?
-
-## ¡Excelente pregunta! 🧠🔥
+# 🤖 ¿Cómo sabe una red neuronal que debe convertir de Celsius a Fahrenheit?
 
 La red neuronal no sabe de antemano que debe convertir de Celsius a Fahrenheit. Nadie le dice “haz esta fórmula” ni se le programa directamente la conversión.
 
-Lo que hace es **aprender por ejemplo**. Vamos a explicarlo más claramente:
+Lo que hace es **aprender con ejemplo**. 
 
 ---
 
@@ -82,7 +80,7 @@ La red no sabe la fórmula, **aprende el patrón** a partir de los ejemplos que 
 
 # 🧠 ¿De dónde saca la IA el peso (W) y el sesgo (B)?
 
-La **IA no sabe de antemano** que el peso debe ser `1.8` y el sesgo debe ser `32`. Eso lo **aprende a través del entrenamiento** usando los datos que tú le das. Aquí te explico paso a paso:
+La **IA no sabe de antemano** que el peso debe ser `1.8` y el sesgo debe ser `32`. Eso lo **aprende a través del entrenamiento** usando los datos que tú le das.
 
 ## 🔁 El proceso de entrenamiento
 
@@ -113,7 +111,7 @@ La **IA no sabe de antemano** que el peso debe ser `1.8` y el sesgo debe ser `32
 
 ## 📐 ¿Cómo termina con W ≈ 1.8 y B ≈ 32?
 
-Porque esos son los valores que, al aplicar a la fórmula `entrada × W + B`, dan resultados muy cercanos a los Fahrenheit reales.
+Porque esos son los valores que, al aplicar a la fórmula `entrada × W + B`, dan resultados muy cercanos a los Fahrenheit reales! 🔥 🔥 🔥 
 
 Por ejemplo:
 
